@@ -1,4 +1,4 @@
-//Khagesh patil
+//sumit patil
 //Task :2 Number Guessing Game
 import java.util.Random;
 import java.util.Scanner;
